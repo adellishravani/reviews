@@ -1,0 +1,38 @@
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  text-align: center;
+  padding: 10px;
+}
+.arrow {
+  height: 20px;
+  width: 20px;
+  color: whitesmoke;
+  border-radius: 20px;
+  background-color: transparent;
+}
+.button {
+  background-color: transparent;
+  border-style: none;
+}
+.imagesDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.image {
+  width: 200px;
+  border-radius: 25px;
+  margin: auto;
+}
+.heading {
+  color: antiquewhite;
+  font-size: 30px;
+}
+.para {
+  color: aliceblue;
+}
+.name {
+  color: aliceblue;
+  font-size: 20px;
+}
